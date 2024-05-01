@@ -1,0 +1,10 @@
+﻿  Fox.cpp
+  Fox.hpp
+  Grass.cpp
+  Living.cpp
+  Rabbit.cpp
+C:\vis\Rabbit.cpp(76,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+C:\vis\main.cpp(18,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  vis.vcxproj -> C:\vis\x64\Debug\vis.exe
